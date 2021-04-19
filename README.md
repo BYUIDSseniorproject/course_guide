@@ -28,7 +28,8 @@ You will be responsible to submit a [project proposal](project.html) before the 
 
 ### During Class
 
-This senior project is self-directed.  Your faculty mentor will work with you to have 1-hour scheduled for supporting your project.  You will be responsible to complete 126 hours of work on your project to be able to earn an A grade.  Your hours together with your deliverables documented below will define your final grade in your senior project. We will use [clockify.me](clockify.me) to record your hours weekly. 
+This senior project is self-directed.  Your faculty mentor will work with you to have 1-hour scheduled for supporting your project.  You will be responsible to complete 126 hours of work on your project to be able to earn an A grade.  Your hours together with your deliverables documented below will define your final grade in your senior project. Your faculty mentor will need to add you to our [byui.harvestapp.com](https://byui.harvestapp.com/) account.  You will track your hours weekly.
+
 
 ## Deliverables and Grading
 
