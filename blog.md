@@ -15,3 +15,6 @@ I would recommend reading posts from the internet of others that post about data
 ## Blog creation
 
 Please use [distill](https://rstudio.github.io/distill/blog.html) to create your blog.
+
+- [Guide from an R user](https://www.andreashandel.com/post/distill-github-website/)
+- [BYUIDSS post on Distill blog creation](https://byuidss.github.io/posts/2021-03-22-how-to-start-creating-a-blog-for-your-senior-project/)
