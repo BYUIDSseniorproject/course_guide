@@ -11,7 +11,7 @@
 
 ## Senior Project Background
 
-Some program years have more than one class listed for your senior project.  **We would like you to take MATH 499D.**  You will need to get the MATH 499D teacher to give you permission to add the course. 
+Some program years have more than one class listed for your senior project.  **We would like you to take MATH 499D.**  You may need to have the MATH 499D teacher give you permission to add the course. 
 
 Your senior project is an opportunity for you to build a portfolio of work that documents your skill sets as an undergraduate data scientist.  Here is [an example](https://byuidatascience.github.io/WolfeA_SeniorProject) from [Andrew Wolfe](https://www.linkedin.com/in/akwolfe/).  Each project will also need to include a [publishable article](https://byuidatascience.github.io/WolfeA_SeniorProject/article.html) that will be shared on our [LinkedIn Data science group](https://www.linkedin.com/groups/13537407/).
 
@@ -25,16 +25,16 @@ Your senior project is built to give you a space to develop your own final produ
 
 We recommend that you take it your last semester and expect that you will take it during your senior year.  This is a capstone experience for you to demonstrate to yourself and employers that you can use the tools you have learned throughout the data science program to complete original self-directed work.
 
-You will be responsible to submit a [project proposal](project.html) before the semester of your senior project credits begins.  This proposal will be a one-page document that proposes a novel question or problem that you would like to address.  The proposal should include information about the type of data you will need to find and a list of professors that you would prefer to be your mentor on the project.
+You will be responsible to submit a [project proposal](project.html) before the semester of your senior project credits begins.  This proposal will be a one-page document that proposes a novel question or problem that you would like to address.  The proposal should include information about the type of data you will need to find. If you plan on working with an individual professor (instead of taking 499D) then you should also include a list of professors that you would prefer to be your mentor on the project.
 
 ### During Class
 
-This senior project is self-directed.  Your faculty mentor will work with you to have 1-hour scheduled for supporting your project.  You will be responsible to complete 126 hours of work on your project to be able to earn an A grade.  Your hours together with your deliverables documented below will define your final grade in your senior project. Your faculty mentor will need to add you to our [byui.harvestapp.com](https://byui.harvestapp.com/) account.  You will track your hours weekly.
+This senior project is self-directed.  You will meet with your class at least once a week to report your progress and ask for guidance. (If working individually with a faculty mentor, he or she will set up recurring meetings with you.) You will be responsible to complete 126 hours of work on your project to be able to earn an A grade.  Your hours together with your deliverables documented below will define your final grade in your senior project. Your faculty mentor will need to add you to our [byui.harvestapp.com](https://byui.harvestapp.com/) account.  You will track your hours weekly.
 
 
 ## Deliverables and Grading
 
-Each project will have its own unique deliverables that will be negotiated in the project proposal listed below.  For example, some projects could require the development of an R package, multiple presentations to a client, or deeper learning of machine learning techniques.  All projects are expected to have the following deliverables delivered during the semester at the specified week in the semester.
+Each project will have its own unique deliverables that will be negotiated in the project proposal.  For example, some projects could require the development of an R package, multiple presentations to a client, or deeper learning of machine learning techniques.  All projects are expected to have the following deliverables delivered during the semester at the specified week in the semester.
 
 | Item      | Description       | Date      |
 |:-:        |:---------------------------------------------------                |:-------------:        |
