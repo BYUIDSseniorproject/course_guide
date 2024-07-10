@@ -54,4 +54,14 @@ Each project will have its own unique deliverables that will be negotiated in th
 | 8         | Build out Github with project work                                    | Week 10    |
 | 9         | Post final version of project post                                    | Week 11    |
 | 10        | Present at R&CW conference or client                                  | Week 12    |
-| 11        | Finish all materials and review blog with instructor                  | Week 14    |
+
+### Hours and Deliverables Table
+
+| Grade     | Hours       | Deliverables      |
+|:-:        |:---------------------------------------------------                |:-------------:        |
+| A         | 126                | An amazing project or work presentation  (Poster presented at RCW)       |
+| B         | 90         | All three posts and a completed project of good quality (Poster presented at RCW)   |
+| C         | 60         | At least two posts and a completed project of good quality  (Poster presented at RCW)  |
+| D         | 40         | Attend class a few times  |
+| F         | < 40         |   |
+| 11        | Finish all materials and review blog wit| D         | 40         | Attend class a few times  |h instructor                  | Week 14    |
