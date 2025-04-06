@@ -31,7 +31,7 @@ Your senior project is built to give you a space to develop your own products as
 
 We recommend that you take it your last semester and expect that you will take it during your senior year.  This is a capstone experience for you to demonstrate to yourself and employers that you can use the tools you have learned throughout the data science program to complete original self-directed work.
 
-If you are completing a full semester project, you will be responsible to submit a [project proposal](project.html) before the semester of your senior project credits begins.  This proposal will be a one-page document that proposes a novel question or problem that you would like to address.  The proposal should include information about the type of data you will need to find. If you plan on working with an individual professor (instead of taking DS 499) then you should also include a list of professors that you would prefer to be your mentor on the project.
+If you are completing a full semester project, you will be responsible to submit a [project proposal](project.md) before the semester of your senior project credits begins.  This proposal will be a one-page document that proposes a novel question or problem that you would like to address.  The proposal should include information about the type of data you will need to find. If you plan on working with an individual professor (instead of taking DS 499) then you should also include a list of professors that you would prefer to be your mentor on the project.
 
 ### During Class
 
@@ -44,24 +44,24 @@ Each project will have its own unique deliverables that will be negotiated in th
 
 | Item      | Description       | Date      |
 |:-:        |:---------------------------------------------------                |:-------------:        |
-| 1         | Propose your senior project plan                  | Day One          |
-| 2         | Finalize project proposal  & [Draft blog created](blog.md)          | Week 1    |
-| 3         | [Finalized data science resume submitted](resume.md)                | Week 2    |
+| 1         | Propose your senior project plan                                      | Day One    |
+| 2         | Finalize project proposal  & [Draft blog created](blog.md)            | Week 1     |
+| 3         | [Finalized data science resume submitted](resume.md)                  | Week 2     |
 | 4         | Data ingested or documented process for ingestion & First post about your project                 | Week 4     |
 | 5         | Update project proposal with detailed steps to completion & Second post about your project        | Week 6     |
 | 6         | [Submit abstract to R&CW conference](http://www.byui.edu/research-and-creative-works-conference)  | Week 7     |
-| 7         | Draft version of final project post & Third post about your project   | Week 9    |
+| 7         | Draft version of final project post & Third post about your project   | Week 9     |
 | 8         | Build out Github with project work                                    | Week 10    |
 | 9         | Post final version of project post                                    | Week 11    |
 | 10        | Present at R&CW conference or client                                  | Week 12    |
+| 11        | Finish all materials and review blog with instructor                  | Week 14    |
 
 ### Hours and Deliverables Table
 
-| Grade     | Hours       | Deliverables      |
+| Grade     | Hours      | Deliverables      |
 |:-:        |:---------------------------------------------------                |:-------------:        |
-| A         | 126                | An amazing project or work presentation  (Poster presented at RCW)       |
+| A         | 126        | An amazing project or work presentation  (Poster presented at RCW)       |
 | B         | 90         | All three posts and a completed project of good quality (Poster presented at RCW)   |
 | C         | 60         | At least two posts and a completed project of good quality  (Poster presented at RCW)  |
 | D         | 40         | Attend class a few times  |
-| F         | < 40         |   |
-| 11        | Finish all materials and review blog wit| D         | 40         | Attend class a few times  |h instructor                  | Week 14    |
+| F         | < 40       |   |
