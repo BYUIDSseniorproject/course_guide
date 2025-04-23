@@ -2,15 +2,11 @@ You must submit a project proposal by the first Saturday of the semester. This p
 
 Introduction
 
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#introduction)
-
 You have completed smaller week-long or semester-long projects in many of your data science courses. You could draw inspiration from those projects to develop a proposal requiring a significant portion of the course hours to complete. We have provided some guidance on this proposal below.
 
 ### Please name the file `lastname_firstname_seniorproject.pdf`.
 
 ## Proposal Sections
-
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#proposal-sections)
 
 Your proposal should be one page in length. It should include the following sections and information.
 
@@ -21,25 +17,17 @@ Your proposal should be one page in length. It should include the following sect
 
 ### Personal Background
 
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#personal-background)
-
 This section should have 2-3 sentences identifying if you have completed MATH 425, CS 450, and MATH 488. It would be helpful if you could specify the career field you are interested in and outline your plans after graduation. Please include your byui.edu email and your personal email in the background section.
 
 ### Project Background
-
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#project-background)
 
 This section provides a brief description of the interesting question you would like to address. It should provide some motivation as to why this question is important and how you will gather data to answer it. Note that you can work with a faculty mentor to come up with ideas for your draft proposal if needed.
 
 ### Domain to Investigate
 
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#domain-to-investigate)
-
 In this section, you could note a domain you will need to study during your senior project to be able to complete the work. You could list the critical topics in that domain that will need to be considered. For example, if you were going to do a project around investments and stock trading, you would need to document the domain and list a few key elements that will be helpful in your learning of that domain.
 
 ### Proposed Deliverables
-
-[Links to an external site.](https://github.com/BYUIDSseniorproject/course_guide/blob/main/project.html#proposed-deliverables)
 
 You do not need to include the standard deliverables that all projects are required to do (blog, resume, and final presentation). Instead, list deliverables that are unique to your project. What are the specific elements of your project that you need to complete before presenting your work? Examples of deliverables could include
 
